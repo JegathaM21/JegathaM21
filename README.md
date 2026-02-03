@@ -4,7 +4,7 @@ I am a passionate software developer from Bangalore, specialized in building sca
 
 - 🔭 **I’m currently working on:** Advanced Java Microservices & AI-integration
 - 💼 **I’m open to:** Full Stack Java Developer & Software Engineer roles
-- 📄 **Resume:** [Click here to view my Resume](YOUR_LINK_HERE)
+- 📄 **Resume:** [Click here to view my Resume](YOUR_DRIVE_LINK_HERE)
 
 ## 🌐 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jegatha-manikandan-4470432b2/) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jegatham21@gmail.com)
@@ -12,7 +12,7 @@ I am a passionate software developer from Bangalore, specialized in building sca
 ---
 
 ## 🛠️ Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
@@ -30,10 +30,14 @@ I am a passionate software developer from Bangalore, specialized in building sca
 
 ## 📊 GitHub Stats:
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=JegathaM21&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="Jegatha's Stats" />
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JegathaM21&theme=dark&hide_border=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=JegathaM21&show_icons=true&theme=dark&hide_border=true" alt="Stats Card" />
+  <br/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JegathaM21&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
 
+### 🏆 GitHub Trophies
+<img src="https://github-profile-trophy.vercel.app/?username=JegathaM21&theme=radical&no-frame=true&margin-w=4" alt="Trophies" />
+
+---
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
