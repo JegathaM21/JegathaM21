@@ -34,9 +34,11 @@ I am a passionate software developer from Bangalore, specialized in building sca
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JegathaM21&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
 
-### 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=JegathaM21&theme=radical&no-frame=true&margin-w=4" alt="Trophies" />
-
+## 📊 Activity & Stats:
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=JegathaM21&show_icons=true&theme=dark&hide_border=true" width="400" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JegathaM21&theme=react-dark&hide_border=true" width="400" />
+</p>
 ---
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
