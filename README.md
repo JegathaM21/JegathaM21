@@ -40,5 +40,6 @@ I am a passionate software developer from Bangalore, specialized in building sca
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JegathaM21&theme=react-dark&hide_border=true" width="400" />
 </p>
 ---
-### ✍️ Random Dev Quote
+
+## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
