@@ -7,8 +7,12 @@ I am a passionate software developer from Bangalore, specialized in building sca
 - 📄 **Resume:** [Click here to view my Resume](YOUR_DRIVE_LINK_HERE)
 
 ## 🌐 Connect with Me:
-[![LinkedIn](https://img.icons8.com/?size=100&id=108812&format=png&color=000000)](https://www.linkedin.com/in/jegatha-manikandan-4470432b2/) [![Email](https://img.icons8.com/?size=100&id=Cjuj2uISMdQ1&format=png&color=000000)](mailto:jegatham21@gmail.com)
-
+<a href="https://www.linkedin.com/in/jegatha-manikandan-4470432b2/">
+  <img src="https://img.icons8.com/?size=100&id=108812&format=png&color=000000" alt="LinkedIn" />
+</a>
+<a href="mailto:jegatham21@gmail.com">
+  <img src="https://img.icons8.com/?size=100&id=Cjuj2uISMdQ1&format=png&color=000000" alt="Email" />
+</a>
 ---
 
 ## 🛠️ Tech Stack:
@@ -36,7 +40,6 @@ I am a passionate software developer from Bangalore, specialized in building sca
 
 ## 📊 Activity & Stats:
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=JegathaM21&show_icons=true&theme=dark&hide_border=true" width="400" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JegathaM21&theme=react-dark&hide_border=true" width="400" />
 </p>
 ---
